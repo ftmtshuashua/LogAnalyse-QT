@@ -5,4 +5,4 @@
 [已生成的Exe工具下载](https://github.com/ftmtshuashua/LogAnalyse/tree/main/source)
 
 
-[![](https://github.com/ftmtshuashua/LogAnalyse/tree/main/source/imge.png)]()
+![Image](https://github.com/ftmtshuashua/LogAnalyse/tree/main/source/imge.png)
